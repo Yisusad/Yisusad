@@ -12,17 +12,17 @@
 
 <h3 align="center">Contáctame! :</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
-<a href="https://www.instagram.com/yisusad/" target="blank">
+<a href="https://www.instagram.com/yisusad/" target="_blank">
 <img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" style="height: 3rem; background-color:white"/>
 </a>
  
-<a href="https://m.facebook.com/jesus.acuna.5680899" target="blank">
+<a href="https://m.facebook.com/jesus.acuna.5680899" target="_blank">
 <img src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" style="height: 3rem; background-color:white"/>
 </a>
 
-<a href="jesuscheoz@gmail.com" target="blank">
+<a href="jesuscheoz@gmail.com" target="_blank">
 <img src="https://cdn.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" style="height: 3rem"/>
 </a>
 
