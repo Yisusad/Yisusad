@@ -3,7 +3,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! Bienvenido a mi Perfil de Github!</h1>
 <h3 align="center">Sobre mí :</h3>  
  <p>
- 👨‍🎓  Estudiante del último año de la carrera de Ing. Informática en la Universidad Católica Campus Itapúa.
+ 👨‍🎓  Haciendo la Tesis para la carrera de Ing. Informática en la Universidad Católica Campus Itapúa.
 <br>💫 Siguiendo el camino de un Desarrollador fullstack, y actualmente adentrándome en la Web 3.0.
 <br>👩‍💻 Estoy en constante aprendizaje. Siempre hay algo nuevo y bueno para aprender.
 
