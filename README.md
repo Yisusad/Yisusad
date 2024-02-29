@@ -55,7 +55,7 @@
 
 <h3 align="Center">Frameworks Backend:</h3> 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" style="height: 4rem"/>                    
 </p>
 
