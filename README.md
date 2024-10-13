@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! Bienvenido a mi Perfil de Github!</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! Bienvenido a mi Perfil!</h1>
 <h3 align="center">Sobre mí :</h3>  
  <p>
  👨‍🎓  Ingeniero Informático, egresado de la Universidad Católica Campus Itapúa.
